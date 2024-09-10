@@ -19,3 +19,5 @@ This repository stores workflows used to assemble, annotate, and analyze genomes
 - **Transcriptome**: RNA sequencing to profile gene expression.
 
 This ensures data processing is reproducible and transparent throughout the project.
+
+Current tools and workflows are described in detail [here](https://github.com/1000GCh/1000G_workflows)
